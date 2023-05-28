@@ -9,6 +9,6 @@ const Booking = () => {
   )
 }
 
-export default Booking
+export default Booking ;
 
 const styles = StyleSheet.create({})
